@@ -14,4 +14,4 @@
 ```
 Mechanical Engineering student at Colorado State focused on manufacturing and automation. Experience in CNC machining, CAD, and FEA/CFD, with recent work in building RFID tracking system at Woodward and a low-cost welding robot for senior design.
 
-📄 [Resume](./Ben_Gujer_Resume_2026.pdf) | 🔗 [LinkedIn](https://www.linkedin.com/in/ben-gujer)
+📄 [Resume](./Ben_Gujer_Resume_2026.md) | 🔗 [LinkedIn](https://www.linkedin.com/in/ben-gujer)
