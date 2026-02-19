@@ -12,6 +12,6 @@
 ⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣷  Tools: Android Studio, VS Code, SolidWorks/Creo/Fusion, ANSYS/Abaqus
 
 ```
-Mechanical Engineering student at Colorado State focused on manufacturing and automation. Experience in CNC machining, CAD, and FEA/CFD, with recent work in building RFID tracking system at Woodward and a low-cost welding robot for senior design [See Repo Here](https://github.com/Bgujer/Roam-Robotic_Welding_SD).
+Mechanical Engineering student at Colorado State focused on manufacturing and automation. Experience in CNC machining, CAD, and FEA/CFD, with recent work in building RFID tracking system at Woodward and a low-cost welding robot for senior design [See Repo Here](https://github.com/Bgujer/Roam-Robotic_Welding_Senior_Design).
 
-📄 [Resume](./Ben_Gujer_Resume_2026.md) | 🔗 [LinkedIn](https://www.linkedin.com/in/ben-gujer)
+🔗 [LinkedIn](https://www.linkedin.com/in/ben-gujer)
